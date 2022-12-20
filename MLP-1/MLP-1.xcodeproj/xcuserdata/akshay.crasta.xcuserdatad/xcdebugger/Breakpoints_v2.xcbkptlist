@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CB46E27D-780F-4F16-99F6-E12E52DCA112"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10DC2E35-8190-41A6-BFAF-A5D1B823CF69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLP-1/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getPeopleData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10DC2E35-8190-41A6-BFAF-A5D1B823CF69 - 8cb94e2e484e4d70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;MLP_1.Person&gt;&gt;, MLP_1.CustomError) -&gt; () in MLP_1.PeopleViewModel.getPeopleData() -&gt; ()"
+                  moduleName = "MLP-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshay.crasta/MLP/MLP-1/MLP-1/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "10DC2E35-8190-41A6-BFAF-A5D1B823CF69 - 8cb94e2e484e4d70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;MLP_1.Person&gt;&gt;, MLP_1.CustomError) -&gt; () in MLP_1.PeopleViewModel.getPeopleData() -&gt; ()"
+                  moduleName = "MLP-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshay.crasta/MLP/MLP-1/MLP-1/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFF66420-ED2A-4B05-AD0C-9BC48F3D41F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLP-1/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPeopleData(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B6A538A-5071-478A-AFFA-B01EE3C7CF5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLP-1/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPeopleData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B6A538A-5071-478A-AFFA-B01EE3C7CF5A - 974ebd3cff1f9f01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MLP_1.NetworkManager.getPeopleData(urlString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;MLP_1.Person&gt;&gt;, MLP_1.CustomError) -&gt; ()) -&gt; ()"
+                  moduleName = "MLP-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshay.crasta/MLP/MLP-1/MLP-1/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "9B6A538A-5071-478A-AFFA-B01EE3C7CF5A - 974ebd3cff1f9f01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MLP_1.NetworkManager.getPeopleData(urlString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;MLP_1.Person&gt;&gt;, MLP_1.CustomError) -&gt; ()) -&gt; ()"
+                  moduleName = "MLP-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshay.crasta/MLP/MLP-1/MLP-1/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1029">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A791D890-EB0A-41B1-B54C-F1C1C2E2A752"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLP-1/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getPeopleData(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
