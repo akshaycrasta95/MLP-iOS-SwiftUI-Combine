@@ -59,7 +59,7 @@
 			children = (
 				BD074BE22950673D00BB9B10 /* MLP_1App.swift */,
 				BD074BE42950673D00BB9B10 /* ContentView.swift */,
-				BD074BF62950767D00BB9B10 /* ViewModel.swift */,
+				BD507E792951D3D50097A321 /* ViewModel */,
 				BD074BF529506A1000BB9B10 /* Network */,
 				BD074BF22950695E00BB9B10 /* Model */,
 				BD074BE62950674D00BB9B10 /* Assets.xcassets */,
@@ -90,6 +90,14 @@
 				BD074BF329506A0A00BB9B10 /* NetworkManager.swift */,
 			);
 			path = Network;
+			sourceTree = "<group>";
+		};
+		BD507E792951D3D50097A321 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				BD074BF62950767D00BB9B10 /* ViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
